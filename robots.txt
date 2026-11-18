@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://new-therapy.netlify.app/sitemap.xml
